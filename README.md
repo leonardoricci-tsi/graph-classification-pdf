@@ -57,3 +57,4 @@ O dataset está separado em:
 ## ✍️ Autor
 
 Criado por Leonardo Oliveira – Projeto de Classificação de Gráficos com Visão Computacional e YOLOv8.
+Utilização de base de dados CHARTX https://github.com/Alpha-Innovator/ChartVLM
